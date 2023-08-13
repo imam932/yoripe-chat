@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/imam932/yoripe-chat" target="blank"><img src="https://github.com/imam932/yoripe-chat/blob/master/swagger%20yoripe.png" width="400" alt="YoRipe Chat" /></a>
+  <a href="https://github.com/imam932/yoripe-chat" target="blank"><img src="https://github.com/imam932/yoripe-chat/blob/master/swagger%20yoripe.png" alt="YoRipe Chat" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
